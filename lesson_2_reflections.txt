@@ -1,0 +1,1 @@
+-Staging areas allows me to think about my commits in terms of logical increments
