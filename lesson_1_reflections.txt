@@ -1,0 +1,34 @@
+Me:
+	Creating a symbolic link is basically just a flag and directory path
+
+Q.	How could having easy access to the entire history of a file make you 
+	a more efficient programmer in the long term?
+
+A.	IDE, industry standard, a lot less tedious when writing a report.
+
+Q.	What do you think are the pros and cons of manually choosing when to 
+	create a commit, like you do in Git, vs having versions automatically 
+	saved, like Google Docs does?
+	Pros: Made for programming
+	Con: Easy to forget and bad practice
+
+Q.	Why do you think some version control systems, like Git, allow saving 
+	multiple files in one commit, while others, like Google Docs, treat 
+	each file separately??
+
+	So that you can track connected files together e.g. html+css+js
+	also not git log stats
+	and git log diff by comparing their ids
+
+Q.	How can you use the commands git log and git diff to view the history
+	of files?
+
+	git log: can be used to see LIFO version of history
+	git diff: Compare new to old (FOFI)
+
+Q. 	How might using version control make you more confident to make changes
+	 that could break something?
+	 You can aways go back 
+
+Q.	 Now that you have your workspace set up, what do you want to try using Git for?
+	Our assignments...dih
