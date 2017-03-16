@@ -1,1 +1,32 @@
 -Staging areas allows me to think about my commits in terms of logical increments
+-
+git add git commit
+git branch master
+git log
+git diff
+git diff xx xx
+git diff --staged
+
+-
+git branch
+git branch easy-mode
+git checkout easy-mode
+git branch //to see status
+git diff
+git add
+git diff
+git diff --staged
+git commit
+git status
+git log
+git diff --staged
+
+git reset —hard (use carefully and google, basically SHOULD remove everything that has not been committed and CANNOT be undone)
+
+—-
+git checkout … can causes detached head state
+git checkout -b newbranchname will cause a new branch at checkout point
+
+
+--
+git merge master ...  (Merge into master)
